@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    font-family: 'Courier New', sans-serif;
+    color: orange;
+    background-color: black;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Courier New', sans-serif;
+    font-weight: bold;
+    background-color: black;
+    color: greenyellow;
+}
+
+p {
+    font-family: "Garamond", sans-serif;
+    font-weight: lighter;
+    color: lightslategray;
+    text-align: center;
+}
+
+li {
+    font-family: "Garamond", sans-serif;
+    font-weight: lighter;
+    
+}
+
+
+button {
+    width: 150px;
+    height: auto;
+    font-family: "Garamond", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.sushi {
+    background-color: rgb(15, 167, 167);
+    color: rgb(21, 71, 21);
+}
+
+.lasagna {
+    background-color: rgb(219, 219, 13);
+    color: rgb(177, 18, 18);
+}
+
+.suqaar {
+    background-color: rgb(192, 163, 127);
+    color: rgb(126, 53, 126);
+}
