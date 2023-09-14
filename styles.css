@@ -1,10 +1,32 @@
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+head {
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+
 h1 {
     text-align: center;
     font-family: 'Courier New', sans-serif;
     color: orange;
-    background-color: black;
+    background-color: white;
     font-size: 36px;
     font-weight: bold;
+    width: 200px;
+    margin: auto;
 }
 
 h2 {
@@ -18,22 +40,24 @@ p {
     font-family: "Garamond", sans-serif;
     font-weight: lighter;
     color: lightslategray;
-    text-align: center;
 }
 
 li {
     font-family: "Garamond", sans-serif;
     font-weight: lighter;
+    color: lightslategray;
     
 }
 
 
 button {
+    display: block;
     width: 150px;
     height: auto;
     font-family: "Garamond", sans-serif;
     font-weight: 600;
     font-size: 16px;
+    margin: auto;
 }
 
 .sushi {
